@@ -4,10 +4,16 @@ header{
 }
 
 body{
-    background-color: blue;
+    /* background-color: blue; */
     text-align: center;
 }
 nav{
     background-color: cornflowerblue;
     align-items: center;
 }
+@media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
