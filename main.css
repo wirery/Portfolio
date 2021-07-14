@@ -4,6 +4,7 @@ header{
 
 body{
     background-color: blue;
+    align-items: center;
 }
 nav{
     background-color: cornflowerblue;
