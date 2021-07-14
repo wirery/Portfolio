@@ -1,11 +1,13 @@
 header{
     background-color: aqua;
+    align-items: center;
 }
 
 body{
     background-color: blue;
-    align-items: center;
+    text-align: center;
 }
 nav{
     background-color: cornflowerblue;
+    align-items: center;
 }
