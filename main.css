@@ -1,14 +1,13 @@
-header{
-    background-color: aqua;
-    align-items: center;
+header{   align-items: center;
 }
 
 body{
+    background-color: rgba(0, 179, 255, 0.927);
     text-align: center;
 }
 
 nav{
-    background-color: rgb(100, 149, 237);
+    background-color: cornflowerblue;
     align-items: center;
 }
 @media screen and (max-width: 600px) {
