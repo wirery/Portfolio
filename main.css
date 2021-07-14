@@ -4,14 +4,9 @@ header{
 }
 
 body{
-    /* background-color: blue; */
     text-align: center;
 }
 
-p{
-    font-family: Verdana, Geneva, Tahoma, cursive;
-
-}
 nav{
     background-color: cornflowerblue;
     align-items: center;
