@@ -8,7 +8,7 @@ body{
 }
 
 nav{
-    background-color: cornflowerblue;
+    background-color: rgb(100, 149, 237);
     align-items: center;
 }
 @media screen and (max-width: 600px) {
